@@ -9,4 +9,8 @@ public class App2 {
 		System.out.println("Hello World ddd !");
 
 	}
+	
+	private void foo(){
+		System.out.println("Codice foo");
+	}
 }
