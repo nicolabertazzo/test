@@ -13,4 +13,8 @@ public class App2 {
 	private void foo(){
 		System.out.println("Codice foo");
 	}
+	
+	private void foo2(){
+		System.out.println("Codice foo2");
+	}
 }
