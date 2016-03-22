@@ -12,6 +12,7 @@ public class App2 {
 	
 	private void foo(){
 		System.out.println("Codice foo Feature 4");
+		System.out.println("Codice foo Feature 5");
 		//commento
 	}
 	
