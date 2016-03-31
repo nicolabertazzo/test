@@ -23,4 +23,8 @@ public class App2 {
 	public void print(String s) {
 		System.out.println(s);
 	}
+	
+	public String hi() {
+		return "Hi";
+	}
 }
