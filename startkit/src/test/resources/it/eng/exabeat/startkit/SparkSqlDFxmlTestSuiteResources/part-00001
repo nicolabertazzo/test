@@ -1,0 +1,17 @@
+<people>
+    <person>
+        <name>Antonio</name>
+        <surname>Murgia</surname>
+        <age>12</age>
+    </person>
+    <person>
+        <name>Mickey</name>
+        <surname>Mouse</surname>
+        <age>19</age>
+    </person>
+    <person>
+        <name>Giovanni</name>
+        <surname>Neri</surname>
+        <age>105</age>
+    </person>
+</people>

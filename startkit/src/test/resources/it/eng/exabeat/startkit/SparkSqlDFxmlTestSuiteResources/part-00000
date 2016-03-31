@@ -1,0 +1,17 @@
+<people>
+    <person>
+        <name>Giuseppe</name>
+        <surname>Garibaldi</surname>
+        <age>99</age>
+    </person>
+    <person>
+        <name>Nanni</name>
+        <surname>Moretti</surname>
+        <age>32</age>
+    </person>
+    <person>
+        <name>Quentin</name>
+        <surname>Tarantino</surname>
+        <age>88</age>
+    </person>
+</people>
