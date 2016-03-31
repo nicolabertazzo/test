@@ -9,14 +9,18 @@ public class App2 {
 		System.out.println("Hello World ddd !");
 
 	}
-	
-	private void foo(){
+
+	private void foo() {
 		System.out.println("Codice foo Feature 4");
 		System.out.println("Codice foo Feature 5");
-		//commento
+		// commento
 	}
-	
-	private void foo2(){
+
+	private void foo2() {
 		System.out.println("Codice foo2 Feature 4444");
+	}
+
+	public void print(String s) {
+		System.out.println(s);
 	}
 }
