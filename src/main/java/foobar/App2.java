@@ -25,6 +25,6 @@ public class App2 {
 	}
 	
 	public String hi() {
-		return "Hi";
+		return "Hello";
 	}
 }
